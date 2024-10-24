@@ -2,7 +2,7 @@ const map = L.map("map", {
   minZoom: 2
 }).setView([40.49, -3.56], 10);
 
-const apiKey = "AAPK135e8566c63546d9876af84b2a0995eejoUe3eUQyhQ4fUbdfA_EdkOC79JakeVXkJbrlpgwLvDLMOFHLzTlLLJAdsO9UGVj"; //Personal ArcGis Developer API key
+const apiKey = "Enter_your_ArcGis__Developer_API_Key"; //Personal ArcGis Developer API key
 
 const basemapEnum = "osm/dark-gray"; //OSM basemap layer
 
